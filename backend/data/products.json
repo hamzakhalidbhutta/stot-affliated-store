@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Ergonomic Mechanical Keyboard",
+    "description": "High-performance mechanical keyboard with RGB backlighting and tactile switches for maximum productivity.",
+    "image_url": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=500",
+    "affiliate_link": "https://your-affiliate-link-1.com",
+    "price": 129.99
+  },
+  {
+    "title": "Noise-Cancelling Wireless Headphones",
+    "description": "Premium over-ear headphones with active noise cancellation and 40-hour battery life.",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "affiliate_link": "https://your-affiliate-link-2.com",
+    "price": 249.50
+  },
+  {
+    "title": "Ultra-Wide 34-Inch Monitor",
+    "description": "Immersive ultra-wide display perfect for multitasking, coding, and creative design work.",
+    "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3a35?w=500",
+    "affiliate_link": "https://your-affiliate-link-3.com",
+    "price": 450.00
+  }
+]

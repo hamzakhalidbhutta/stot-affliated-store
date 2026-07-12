@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Cloudways Managed Cloud Hosting",
+    "description": "Enterprise-grade cloud hosting optimized for WordPress, PHP, and high-traffic applications. Offers a choice of five cloud providers including DigitalOcean and Vultr.",
+    "affiliate_link": "https://www.cloudways.com/?id=YOUR_ID_HERE",
+    "category": "Infrastructure",
+    "seo_title": "Cloudways Review: Best Managed Hosting for Professionals 2026",
+    "seo_description": "Looking for reliable managed cloud hosting? Our deep dive into Cloudways performance, security, and scalability for business websites.",
+    "slug": "cloudways-managed-hosting-review"
+  },
+  {
+    "title": "HubSpot CRM & Sales Hub",
+    "description": "An all-in-one platform for sales automation, pipeline management, and client communication. Essential for scaling service businesses.",
+    "affiliate_link": "https://www.hubspot.com/affiliate-link",
+    "category": "Sales & CRM",
+    "seo_title": "HubSpot CRM Review: Automating Your Sales Pipeline in 2026",
+    "seo_description": "We analyze how HubSpot CRM helps professional teams automate outreach, manage leads, and close deals faster.",
+    "slug": "hubspot-crm-automation-review"
+  },
+  {
+    "title": "SEMrush Digital Marketing Suite",
+    "description": "The industry-standard toolkit for SEO, competitor analysis, and content strategy. Used by professional marketers to dominate search results.",
+    "affiliate_link": "https://www.semrush.com/affiliate-link",
+    "category": "Digital Marketing",
+    "seo_title": "SEMrush vs. Competitors: Is it the Best SEO Tool for 2026?",
+    "seo_description": "A comprehensive look at SEMrush features and why it is the top choice for business owners looking to improve their Google rankings.",
+    "slug": "semrush-digital-marketing-toolkit"
+  }
+]
